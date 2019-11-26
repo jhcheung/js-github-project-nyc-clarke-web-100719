@@ -11,3 +11,16 @@
 ul {
   list-style: none;
 }
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+/* li.user {
+  width: 50px;
+} */
+
+li.repo {
+  max-width: 500px;
+}
